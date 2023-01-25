@@ -1,4 +1,4 @@
-# Predict-the-public-bicycle-demand-and-recommend-the-day-for-fix
+# Proved the correlation between data and bicycle demand and recommend the day for fixing	
 MATLAB team project | August - December 2021<br/>
 
 ## Why we started this project

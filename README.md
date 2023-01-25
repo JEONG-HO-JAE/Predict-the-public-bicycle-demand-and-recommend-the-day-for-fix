@@ -17,4 +17,5 @@ https://www.newstomato.com/readNewspaper.aspx?no=1005537<br/>
 * Proved the correlation between population and bicycle demand<br/>
 
 ## How we do project
-You can see the details in "matlab_presentation.ppt" that I uploaded in GitHub<br/>
+You can see the details in "matlab_presentation.ppt"<br/>
+https://docs.google.com/presentation/d/1tWX7YK_52nd0zhGt08Tpxzvmq9HnFx1C/edit?usp=share_link&ouid=109045554416368886490&rtpof=true&sd=true
